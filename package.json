@@ -1,14 +1,15 @@
 {
-    "name":"ayudantia",
-    "version":"1.0.0",
-    "description":"",
-    "main":"index.js",
+    "name": "ayudantia",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
     "scripts": {
-        "test":"echo \"Error: no test specified",
-        "start":"node index.js",
-        "dev":"nodemon index.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "dev": "nodemon index.js"
     },
-    "autor":"",
-    "license":"ISC"
-    
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {}
 }
