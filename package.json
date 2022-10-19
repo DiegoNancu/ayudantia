@@ -1,0 +1,14 @@
+{
+    "name":"ayudantia",
+    "version":"1.0.0",
+    "description":"",
+    "main":"index.js",
+    "scripts": {
+        "test":"echo \"Error: no test specified",
+        "start":"node index.js",
+        "dev":"nodemon index.js"
+    },
+    "autor":"",
+    "license":"ISC"
+    
+}
